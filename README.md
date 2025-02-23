@@ -1,4 +1,4 @@
-# Student-carrer-response-ML
+# Student-career-response-ML
 
 Student Career Responses Analysis
 This repository contains a Python script that analyzes student responses regarding their career choices, decision-making processes, and the role of educational institutions in guiding students. The analysis includes data cleaning, visualization, and sentiment analysis.
